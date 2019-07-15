@@ -1,2 +1,2 @@
-# Session-2
+# Assignment 2
 EVA Assignment 2
